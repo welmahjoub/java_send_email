@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="src/bio/AbsoluteLayout.jar"/>
+	<classpathentry kind="lib" path="bibliotheque/rs2xml.jar"/>
+	<classpathentry kind="lib" path="bibliotheque/ojdbc6.jar"/>
+	<classpathentry kind="lib" path="bibliotheque/smtp.jar"/>
+	<classpathentry kind="lib" path="bibliotheque/dsn.jar"/>
+	<classpathentry kind="lib" path="bibliotheque/mailapi.jar"/>
+	<classpathentry kind="lib" path="bibliotheque/imap.jar"/>
+	<classpathentry kind="lib" path="bibliotheque/pop3.jar"/>
+	<classpathentry kind="lib" path="bibliotheque/mail.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="Ahmed/src"/>
+	<classpathentry kind="lib" path="Ahmed/bibliotheque/AbsoluteLayout.jar"/>
+	<classpathentry kind="lib" path="Ahmed/bibliotheque/dsn.jar"/>
+	<classpathentry kind="lib" path="Ahmed/bibliotheque/imap.jar"/>
+	<classpathentry kind="lib" path="Ahmed/bibliotheque/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="Ahmed/bibliotheque/mail.jar"/>
+	<classpathentry kind="lib" path="Ahmed/bibliotheque/mailapi.jar"/>
+	<classpathentry kind="lib" path="Ahmed/bibliotheque/ojdbc6.jar"/>
+	<classpathentry kind="lib" path="Ahmed/bibliotheque/pop3.jar"/>
+	<classpathentry kind="lib" path="Ahmed/bibliotheque/rs2xml.jar"/>
+	<classpathentry kind="lib" path="Ahmed/bibliotheque/smtp.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="Ahmed/bin"/>
+</classpath>
